@@ -11,7 +11,7 @@ Because fzf is conflict with `zsh-autosuggestions`, so this plugin only enable f
 1. install fzf to oh-my-zsh custom plugins directory
 
     ```bash
-    git clone https://github.com/gabrie30/fzf.git ${ZSH}/custom/plugins/fzf
+    git clone https://github.com/junegunn/fzf.git ${ZSH}/custom/plugins/fzf
     ${ZSH}/custom/plugins/fzf/install --bin
     ```
 
